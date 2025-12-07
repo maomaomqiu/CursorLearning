@@ -6,4 +6,4 @@ https://cursor.com/blog
 
 https://github.com/PatrickJS/awesome-cursorrules?tab=readme-ov-file
 
-<img src="photos/01.jpg"/>
+<img src="https://raw.githubusercontent.com/maomaomqiu/Images/main/03.jpg" />
